@@ -1164,6 +1164,3 @@ ORDER BY profit_contribution_perc DESC
 LIMIT 5;
 
 -- > Electricalsara Stores has a very big profit contribution of about 38% followed by Nixon, Electricalslytical, Leader and Premium Stores.
-
-
-
