@@ -12,7 +12,10 @@ Tools used:
     Time Series Analysis has been carried out.
     
 --> Microsoft Power BI is used to build an automated dashboard to give quick sales insights in order to facilitate
-    data driven decision making. To view the dashboard one must have Power Bi installed in his PC.
+    data driven decision making.
+    
+    Dashboard Link: 
+    https://app.powerbi.com/view?r=eyJrIjoiZjI3YzNiZDMtM2EwNi00NGRhLWExMGEtYjUzMmMwNTA1ODQ3IiwidCI6IjNiY2IwZWEyLTk0OTgtNDYwZC1iNDBkLWVlNWJmNmY0Mjk5YiJ9&pageName=ReportSectiona09e66577d2bce705065
 
 
 
