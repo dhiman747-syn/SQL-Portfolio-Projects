@@ -1,10 +1,13 @@
+
 This project is mainly about analysing sales data and deriving valuable insights from it.
 The data is collected from the below link:
 https://github.com/codebasics/DataAnalysisProjects/tree/master/1_SalesInsights   (codebasics)
 
 Tools used:
 
---> MySQL is used to create a database called sales and have some data into it. 
+--> MySQL is used to perform data cleaning and transforming the raw data into suitable format.
+    Wrote a huge number of queries to analyse the data. Used SQL skills like Data Aggregation, CTEs,
+    JOINS, Removing duplicates, Updating columns, Sub-queries, etc.
 
 --> Microsoft Excel is used mainly to forecast quarterly sales figures (both sales qty and revenue).
     Time Series Analysis has been carried out.
