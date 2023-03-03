@@ -1,6 +1,5 @@
 
-This project is mainly about analysing sales data and deriving valuable insights from it.
-The data is collected from the below link:
+This project is mainly about analysing sales data and deriving valuable insights from it. The data is collected from the below link:
 https://github.com/codebasics/DataAnalysisProjects/tree/master/1_SalesInsights   (codebasics)
 
 Tools used:
@@ -19,14 +18,7 @@ Tools used:
 
 
 Problem Statement:
-XYZ hardware is a company in India which supplies computer hardware and peripheral devices across India only. 
-They have many stores across India such as Surge stores, Nomad stores etc. The sales manager of the company is 
-facing many challenges. He is facing issues in tracking sales in dynamically growing market. He is having issues 
-with the insights of his business. In order to tackle this he has some of the regional managers in north, south 
-and central India working for the company. All what the manager wants is a view of the weakest area the company 
-need to focus to increase the sales and improve any declining sales trends in the data. He is interested in simple, 
-understandable and digestive insight. So, he is more interested in a dashboard which he can go and look at the real 
-data because data speaks the truth.All he wants is a simple data visualization tool which he can access on daily basis.
+XYZ hardware is a company in India which supplies computer hardware and peripheral devices across India only. They have many stores across India such as Surge stores, Nomad stores etc. The sales manager of the company is facing many challenges. He is facing issues in tracking sales in dynamically growing market. He is having issues with the insights of his business. In order to tackle this he has some of the regional managers in north, south and central India working for the company. All what the manager wants is a view of the weakest area the company need to focus to increase the sales and improve any declining sales trends in the data. He is interested in simple, understandable and digestive insight. So, he is more interested in a dashboard which he can go and look at the real data because data speaks the truth.All he wants is a simple data visualization tool which he can access on daily basis.
 
 
 Purpose:
