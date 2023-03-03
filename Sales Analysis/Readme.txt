@@ -12,7 +12,7 @@ Tools used:
 --> Microsoft Excel is used mainly to forecast quarterly sales figures (both sales qty and revenue).
     Time Series Analysis has been carried out.
     
---> Microsoft Power BI to build an automated dashboard to give quick sales insights in order to facilitate
+--> Microsoft Power BI is used to build an automated dashboard to give quick sales insights in order to facilitate
     data driven decision making. To view the dashboard one must have Power Bi installed in his PC.
 
 
