@@ -10,7 +10,8 @@ Tools used:
     Time Series Analysis has been carried out.
     
 --> Microsoft Power BI to build an automated dashboard to give quick sales insights in order to facilitate
-    data driven decision making.
+    data driven decision making. To view the dashboard one must have Power Bi installed in his PC.
+
 
 
 
@@ -31,6 +32,3 @@ To obtain some valuable sales insights. Automate them to reduce manual time spen
 
 Expected outcome:
 A dashboard providing quick and latest sales insights.
-
-
-
